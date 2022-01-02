@@ -1,0 +1,6 @@
+id=MIX4FullScreen
+name=MIX4全屏幕显示 适用于安卓11
+version=3.1
+versionCode=1
+author=Zax
+description=用于小米MIX4的全屏幕显示模块，系统UI不再对屏下摄像头区域作出避让，增大屏幕利用率。
